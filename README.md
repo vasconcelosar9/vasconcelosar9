@@ -1,16 +1,15 @@
-## Hi there 👋
+# README.md - Perfil Alexandre
 
-<!--
-**vasconcelosar9/vasconcelosar9** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Olá! Eu sou o Alexandre 👋
 
-Here are some ideas to get you started:
+Analista de Testes com experiência em:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- ✅ Testes funcionais, exploratórios e regressivos  
+- 🤖 Automação com Robot Framework e Selenium  
+- 🌐 Validação de dados com SQL  
+- 📌 Ferramentas: Jira, TestLink, Git  
+- 🚀 Atualmente aprendendo Cypress  
+
+🔗 Me encontre também no [LinkedIn](https://www.linkedin.com/in/vasconcelosar)  
+
+📫 Contato: alexandreqanalyst@gmail.com
