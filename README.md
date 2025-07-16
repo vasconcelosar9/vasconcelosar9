@@ -1,4 +1,4 @@
-# README.md - Perfil Alexandre
+# Perfil Alexandre
 
 ### Olá! Eu sou o Alexandre 👋
 
